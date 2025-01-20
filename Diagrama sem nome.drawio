@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Página-1" id="oOaHb9ytCYVvsxWLBDjt">
-    <mxGraphModel dx="1365" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="500" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jZJsDOTmZMWFZSY-hEBv-11" value="Serviço &lt;br&gt;de Notificação" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.azure_alert;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="50" height="42.5" as="geometry" />
+          <mxGeometry x="325" y="320" width="50" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jZJsDOTmZMWFZSY-hEBv-13" value="&lt;p style=&quot;line-height: 114%;&quot;&gt;&lt;font color=&quot;#0070f2&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;RS485&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#0070F2;fillColor=#EBF8FF;fontColor=#266f3a;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="250" y="152" width="41.99" height="16" as="geometry" />
@@ -79,6 +79,13 @@
         <mxCell id="jZJsDOTmZMWFZSY-hEBv-34" value="CloudServer&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="1">
           <mxGeometry x="-270" y="258" width="63" height="73.26" as="geometry" />
         </mxCell>
+        <mxCell id="jZJsDOTmZMWFZSY-hEBv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="jZJsDOTmZMWFZSY-hEBv-39" target="jZJsDOTmZMWFZSY-hEBv-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jZJsDOTmZMWFZSY-hEBv-39" value="Web APP" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#0080F0;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-117" y="268" width="75.56" height="68" as="geometry" />
         </mxCell>
@@ -124,7 +131,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="440" />
+              <mxPoint x="410" y="535" />
+              <mxPoint x="410" y="341.25" />
             </Array>
           </mxGeometry>
         </mxCell>
